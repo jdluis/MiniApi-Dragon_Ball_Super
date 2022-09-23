@@ -8,3 +8,8 @@
 
 - Search input.
 - Filter by specie.
+
+## Tech
+- TailwindCss
+- ES > ES6
+- Async/Await
